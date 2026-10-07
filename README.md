@@ -23,5 +23,5 @@ Evaluation   :: Execution-based AST drift & dynamic trajectory harnesses
 
 ### 📡 Systems Telemetry & Inquiries
 - **Direct Dispatch:** `nexalytics.ai@gmail.com`
-- **Architecture & 7-Day Sprints:** [Nexalytics Notion POC Sandbox Hub](https://shine-rayon-459.notion.site/Nexalytics-AI-Architecture-7-Day-POC-Hub-3e6b247e791b80eaa94ef0f426086dac)
+- **Architecture & 7-Day Sprints:** [Nexalytics AI Notion POC Sandbox Hub](https://shine-rayon-459.notion.site/Nexalytics-AI-Architecture-7-Day-POC-Hub-3e6b247e791b80eaa94ef0f426086dac)
 - **Deployment Velocity:** From architecture audit to production execution in hours, zero agency bloat.
