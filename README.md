@@ -1,6 +1,6 @@
 # ⚡ Nexalytics AI Systems Lab
 
-> **Autonomous AI Systems Lab | Data Intelligence, Agent Evaluation & Enterprise Builds at Machine Speed.**
+> **Autonomous AI Systems Lab | Data Intelligence, AI Agent Evaluation & Enterprise Builds at Machine Speed.**
 
 [![Website](https://img.shields.io/badge/Production_Portal-nexalytics--ai-00e5ff?style=for-the-badge&logo=vercel&logoColor=black)](https://nexalytics-ai-eta.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nexalytics_AI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/nexalytics-ai)
