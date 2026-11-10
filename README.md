@@ -2,7 +2,6 @@
 
 > **Autonomous Systems Architecture | Deterministic Evaluation Engines, Telemetry Ingestion & Sub-5ms Production Infrastructure.**
 
-[![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnexalyticsai&count_bg=%2300E5FF&title_bg=%231E293B&icon=&icon_color=%23E7E7E7&title=VISITORS&edge_flat=false)](https://github.com/nexalyticsai)
 [![Website](https://img.shields.io/badge/Production_Portal-nexalytics--ai-00e5ff?style=for-the-badge&logo=vercel&logoColor=black)](https://nexalytics-ai-eta.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nexalytics_AI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/nexalytics-ai)
 [![POC Hub](https://img.shields.io/badge/7--Day_POC_Sandbox-Access_Hub-00ffaa?style=for-the-badge&logo=notion&logoColor=black)](https://shine-rayon-459.notion.site/Nexalytics-AI-Architecture-7-Day-POC-Hub-3e6b247e791b80eaa94ef0f426086dac)
